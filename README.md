@@ -1,4 +1,3 @@
-guide2
-======
+# The New Lemurs Guide to:
 
-Open workflows and other tools.
+[Objective-C Style](ObjC-Style.md)
