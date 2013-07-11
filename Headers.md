@@ -1,0 +1,27 @@
+```ObjC
+//
+//  ClassName.h
+//  AppName
+//
+
+@interface ClassName : SuperclassName
+
++ (instancetype)className;
++ (void)classMethods;
+
+@property (nonatomic, weak) IBOutlet UIView *view;
+@property (nonatomic) NSArray *array, *differentArray; // Alphabetical list
+@property (nonatomic) NSString *string; // Properies grouped by metainfo then type
+
+- (instancetype)customInitializer;
+
+- (IBAction)action; // Use IBAction for all actions
+- (IBAction)anotherAction; // Alphabetical
+
+- (void)otherMethods:(id)type otherThanActions:(NSUInteger)useWidthAgnosticScalars;
+
+@end
+
+extern NSString * const kOtherConstants;
+extern NSString * const kPropertyKey;
+```
