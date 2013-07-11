@@ -6,14 +6,14 @@
 
 @interface ClassName : SuperclassName
 
-+ (instancetype)className;
-+ (void)classMethods;
++ (instancetype)className; // Factories and initializers up top
+- (instancetype)customInitializer;
 
-@property (nonatomic, weak) IBOutlet UIView *view;
++ (void)classMethods; // Treat properties like class methods
+
+@property (nonatomic, weak) IBOutlet UIView *view; // Group outlets together
 @property (nonatomic) NSArray *array, *differentArray; // Alphabetical list
 @property (nonatomic) NSString *string; // Properies grouped by metainfo then type
-
-- (instancetype)customInitializer;
 
 - (IBAction)action; // Use IBAction for all actions
 - (IBAction)anotherAction; // Alphabetical
