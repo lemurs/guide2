@@ -12,7 +12,7 @@
 * Eliminated redundant declarations.
 * setUp is two words.
 
-## Headers
+## [Headers](./Headers.md)
 
 * Removed redundant import - UIKit and Foundation are already included in the pre-compiled header
 * Property qualifier order - Let’s put nonatomic first
@@ -21,7 +21,7 @@
 * Group multiple properties of the same type on one line.
 * Header order: factories, initializers, properties, actions, additional API
 
-## Implementation
+## [Implementation](./Implementation.md)
 
 * Overrides grouped by pragmas named by declaring class and ordered by inheritance hierarchy
 * Protocols grouped by named pragmas ordered alphabetically below overrides
