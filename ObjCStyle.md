@@ -7,7 +7,7 @@
 * Avoid using abbreviations whenever possible
 * Consistent use of American English spelling
 * Consistent use of whitespace
-  * - (NSString *)stringWithString:(NSString *)string string:(NSString *)string;
+  * `- (NSString *)stringWithString:(NSString *)string string:(NSString *)string;`
 * Newline at end of file
 * Eliminated redundant declarations.
 * setUp is two words.
@@ -36,6 +36,7 @@
 * Put early return statements on their own line followed by an empty line.
 * User defaults should be registered in +initialize
 * Use standardized form for exposing static members.
+
 ```ObjC
 - (instancetype or type)memberName;
 {
