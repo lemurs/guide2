@@ -20,22 +20,22 @@ What does it look like if we weigh the priority levels by probability?
 Random sample set:
 
 | P | D1 | D2 | D3 | D4 | D5 |
-| - | -- |--- | -- | -- | -- |
-| 1 |  4 |  4 |  2 |  1 |  0 |
-| 2 |  6 |  3 |  4 |  0 |  0 |
-| 3 |  3 |  2 |  4 |  0 |  0 |
-| 4 |  0 |  0 |  0 |  0 |  0 |
-| 5 |  0 |  0 |  0 |  0 |  0 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 4 | 4 | 2 | 1 | 0 |
+| 2 | 6 | 3 | 4 | 0 | 0 |
+| 3 | 3 | 2 | 4 | 0 | 0 |
+| 4 | 0 | 0 | 0 | 0 | 0 |
+| 5 | 0 | 0 | 0 | 0 | 0 |
 
-| P | .2 | .5 | 1. | 3. | D5 |
-| - | -- |--- | -- | -- | -- |
-| 1 | .8 |  2 |  2 |  3 |  0 | 6.8 Days * 0.75 = 5.1 
-| 2 | 1.2 |  1.5 |  4 |  0 |  0 | 6.7 Days * 0.5 = 3.4
-| 3 | .6 |  1 |  4 |  0 |  0 | 5.6 Days * 0.25 = 1.4
+| P | .2 | .5 | 1. | 3. | D5 | Sums
+| :-: | :-: | :-: | :-: | :-: | :-: | ---
+| 1 | .8 |  2 |  2 |  3 |  0 | 6.8 Days * 0.75 = 5.1 Days
+| 2 | 1.2 |  1.5 |  4 |  0 |  0 | 6.7 Days * 0.50 = 3.4 Days
+| 3 | .6 |  1 |  4 |  0 |  0 | 5.6 Days * 0.25 = 1.4 Days
 | 4 |  0 |  0 |  0 |  0 |  0 |
-| 5 |  0 |  0 |  0 |  0 |  0 |
+| 5 |  0 |  0 |  0 |  0 |  0 | 
 
-10 days * 2 = 20 days = 1 month
+That's a total of 9.9 rounded up to 10 days * the accuracy coefficient of 2 to give 20 days, which is 1 month.
 
 Another way would be to sum P1 and P2 and ignore P3 and below. That yields 28 days, which would probably be called a month, but should more accurately be called a month and a half, since there are only 20 work days in a month.
 
