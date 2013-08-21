@@ -2,7 +2,7 @@
 
 1. Go through the mockups and describe[1] every piece of functionality in terms of user stories[2]
   * What do the buttons and other controls do?
-  * What segues are there and where do they do?
+  * What segues are there and where do they go?
   * What has a color, font, or other customization?
   * Where do the images or text come from?
 2. Assign each user story a [difficulty](./Difficulty.md) estimate.
