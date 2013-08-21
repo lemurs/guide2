@@ -17,6 +17,6 @@ You can think of difficulty in terms of forward time or backward time. They are 
 4. 3 Days - 15 Hours
 5. Incalculable: flag or break down further
 
-5 hours = 1 day
-5 days = 1 week
-20 days = 1 month
+* 5 hours = 1 day
+* 5 days = 1 week
+* 20 days = 1 month
