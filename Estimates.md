@@ -57,7 +57,6 @@ Multiple people can distribute work, but not evenly. It would be a similar drop 
 5. 10% - 2.60 - 8 Days
 
 
-
 ### Notes
 
 1. __Issue Trackers__ are numerous. Pick a good one. I recommend GitHub.
@@ -68,4 +67,4 @@ Multiple people can distribute work, but not evenly. It would be a similar drop 
   * I want to write a message.
   * I want to edit my message.
   * I want to save my changes.
-3. Start with 2 or 3 and adjust as you measure your ability to make accurate estimates.
+3. __Accuracy Coefficients__ start with 2 or 3 and adjust as you measure your ability to make accurate estimates.
