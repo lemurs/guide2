@@ -48,7 +48,7 @@ Multiple people can distribute work, but not evenly. It would be a similar drop 
 
 20 Days (1 Month) for a team of:
 
-#  Effectiveness - Divisor - Time
+Effectiveness - Divisor - Time
 
 1. 100% - 1.00 - 20 Days (1 Month)
 2. 75% - 1.75 - 12 Days
