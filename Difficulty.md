@@ -2,23 +2,14 @@
 
 You can think of difficulty in terms of forward time or backward time. They are equivalent amounts of time, but may feel different psychologically. It's probably good to keep both in mind.
 
-D will take at least:
+`D1` More than a few minutes, but less than an hour
+`D2` More than an hour, but less than half a day
+`D3` More than a few hours, but less than a day
+`D4` More than a day, but less than half a week
+`D5` Potentially a week or more
 
-1. A few minutes
-2. A few hours
-3. About a day
-4. A few days
-5. A week or more
 
-D will take at most:
-
-1. Less than an hour
-2. Less than half a day
-3. Less than a day
-4. Less than half a week
-5. A week or more
-
-### Summation
+### Time
 
 1. 1 Hour - 0.2 Days
 2. 0.5 Days - 2.5 Hours
