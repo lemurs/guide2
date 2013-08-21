@@ -1,6 +1,6 @@
 ### Difficulty Levels
 
-You can think of difficulty in terms of forward time or backward time. They are equivalent amounts of time, but may feel different psychologically. It's probably good to keep both in mind.
+You can think of difficulty in terms of forward (more than) time or backward (less than) time. They are equivalent amounts of time, but may feel different psychologically. It's probably good to keep both in mind.
 
 `D1` More than a few minutes, but less than an hour
 
