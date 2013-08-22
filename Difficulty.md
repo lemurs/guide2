@@ -19,7 +19,7 @@ You can think of difficulty in terms of forward (more than) time or backward (le
 | `D2` | 2.5 | 0.5 |
 | `D3` | 5.0 | 1.0 |
 | `D4` | 15. | 3.0 |
-| `D5` | --- | -.- | 
+| `D5` | -.- | -.- | 
 
 `D5` is Incalculable and must be flagged, better defined, or broken down further.
 
