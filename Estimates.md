@@ -59,7 +59,9 @@ Effectiveness - Divisor - Time
 
 ### Using Metrics
 
-Estimates need no longer be static goals that are either hit or missed, but living metrics that give continuous insight into the ongoing status of a project and performance of its team, not just in hitting estimates, but it making estimates in the first place.
+Estimates need no longer be static goals that are either hit or missed, but living metrics that give continuous insight into the ongoing status of a project and performance of its team, not just in hitting estimates, but in making estimates in the first place.
+
+For example, it's one thing to divide the total amount of work by the number of people (times some efficiency coefficient) but once issues are actually assigned, you can instead treat work queues like parallel processes, calculating per worker estimates. Three one-day tasks divided by 3 people will take longer than 1 day if all the tasks are in the same person's queue. 
 
 Feeding data such as how many issues of a given difficulty are actually closed in a given day, and how long it actually took to close them lets you not only see how closely performance matches estimates, but how many issues were reclassfied at a higher difficulty, and how long into working on the problem did it become apparent to revise the estimate.
 
