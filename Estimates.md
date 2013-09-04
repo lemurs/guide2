@@ -29,18 +29,17 @@ Random sample set:
 
 | P | .2 | .5 | 1. | 3. | D5 | Sums
 | :-: | :-: | :-: | :-: | :-: | :-: | ---
-| 1 | .8 |  2 |  2 |  3 |  0 | 6.8 Days * 0.75 = 5.1 Days
-| 2 | 1.2 |  1.5 |  4 |  0 |  0 | 6.7 Days * 0.50 = 3.4 Days
-| 3 | .6 |  1 |  4 |  0 |  0 | 5.6 Days * 0.25 = 1.4 Days
-| 4 |  0 |  0 |  0 |  0 |  0 |
+| 1 | .8 |  2 |  2 |  3 |  0 | 6.8 Days * 1.00 = 6.1 Days
+| 2 | 1.2 |  1.5 |  4 |  0 |  0 | 6.7 Days * 0.75 = 5.0 Days
+| 3 | .6 |  1 |  4 |  0 |  0 | 5.6 Days * 0.50 = 2.8 Days
+| 4 |  0 |  0 |  0 |  0 |  0 | 0 * 0.25 = 0
 | 5 |  0 |  0 |  0 |  0 |  0 | 
 
-That's a total of 9.9 rounded up to 10 days * the accuracy coefficient of 2 to give 20 days, which is 1 month.
+That's a total of 13.9 rounded up to 14 days * the accuracy coefficient of 2 to give 28 days, which is about a month and a half.
 
-Another way would be to sum P1 and P2 and ignore P3 and below. That yields 28 days, which would probably be called a month, but should more accurately be called a month and a half, since there are only 20 work days in a month.
+Another way would be to sum P1 and P2 and ignore P3 and below. That, coincident to this example, also yields 28 days.
 
-It's probably not true that all the P2s will be cleared, though, or they wouldn't be in another priority category. It would be more accurate to say that the estimate is 14-28 days, depending on how the P2s shake out. That works out to about 20 days, which is about a month.
-
+It's probably not true that all the P2s and P3s will be cleared, though, or they wouldn't be in another priority category. It would be more accurate to say that the estimate is between 4-6 weeks, depending on how the P2s and P3s shake out.
 
 ### Team Dynamics
 
