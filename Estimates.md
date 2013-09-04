@@ -57,6 +57,15 @@ Effectiveness - Divisor - Time
 5. 10% - 2.60 - 8 Days
 
 
+### Using Metrics
+
+Estimates need no longer be static goals that are either hit or missed, but living metrics that give continuous insight into the ongoing status of a project and performance of its team, not just in hitting estimates, but it making estimates in the first place.
+
+Feeding data such as how many issues of a given difficulty are actually closed in a given day, and how long it actually took to close them lets you not only see how closely performance matches estimates, but how many issues were reclassfied at a higher difficulty, and how long into working on the problem did it become apparent to revise the estimate.
+
+What's important are not the minutes it takes to flip the switch on an implementation, but the time it takes upon dedicating oneself to solving that problem to closing its issue. If a five minute implementation took 3 days of walking around in frustrated circles to achieve, it's a 3 day problem.
+
+
 ### Notes
 
 1. __Issue Trackers__ are numerous. Pick a good one. I recommend GitHub.
