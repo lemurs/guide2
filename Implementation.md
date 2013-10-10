@@ -16,7 +16,7 @@
 @end
 
 
-@iimplementation ClassName
+@implementation ClassName
 
 + (instancetype)className;
 {
